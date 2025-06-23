@@ -45,10 +45,10 @@ A Power BI dashboard was developed to visualise key patterns in the original dat
 
 - **Guided_Projects/**
    - **Credit_Card_Segmentation/**
-    - `Customer Demographics and Spending Insights Report.pdf`
-    - `Customer Demographics and Spending Insights Report_V2.pdf`
-    - `Segment_credit_card _customers.ipynb`
-    - `credit_card _customers_data_cleaning.ipynb`
+     - `Customer Demographics and Spending Insights Report.pdf`
+     - `Customer Demographics and Spending Insights Report_V2.pdf`
+     - `Segment_credit_card _customers.ipynb`
+     - `credit_card _customers_data_cleaning.ipynb`
   - **Heart_Disease_Prediction/**
     - `Predicting_Heart_Disease.ipynb`
   - `README.md`
