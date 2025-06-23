@@ -41,13 +41,15 @@ A Power BI dashboard was developed to visualise key patterns in the original dat
 
 ---
 
-## 📂 Project Structure 
-Guided_Projects/
-├── Heart_Disease_Prediction/
-   └── heart_disease.ipynb
-├── Credit_Card_Segmentation/
-   └── credit_card _customers_data_cleaning.ipynb
-   └── customer_segmentation.ipynb
-   └── Customer Demographics and Spending Insights Report.pdf
-   └── Customer Demographics and Spending Insights Report_V2.pdf
-└── README.md
+## 📂 Project Structure
+
+- **Guided_Projects/**
+  - **Heart_Disease_Prediction/**
+    - `heart_disease.ipynb`
+  - **Credit_Card_Segmentation/**
+    - `credit_card_customers_data_cleaning.ipynb`
+    - `customer_segmentation.ipynb`
+    - `Customer Demographics and Spending Insights Report.pdf`
+    - `Customer Demographics and Spending Insights Report_V2.pdf`
+  - `README.md`
+
